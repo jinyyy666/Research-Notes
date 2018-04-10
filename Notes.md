@@ -5,3 +5,5 @@
 2. Identify the problem, and find out where the performance bottleneck is.
 
 3. Avoid an obscure and superficial view of the algorithm. Go deeper.
+
+4. Find out the good performance metric to begin with
